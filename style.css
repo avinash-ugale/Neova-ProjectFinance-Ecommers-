@@ -1,0 +1,54 @@
+.Top_nav{
+    border-color: blue;
+     margin: 10px;
+     padding: 10px;
+     height: 50px;
+     
+     
+}
+.Top_nav_regi{
+    float: right;
+    border: black;
+     height: 40px;
+    box-sizing: content-box;
+    margin: 10px;
+     padding: 10px;
+     
+}
+.Top_nav_login{
+    float: right;
+    border: black;
+    margin: 10px;
+     padding: 10px;
+      height: 40px;
+    box-sizing: content-box;
+}
+
+
+.product_card{
+    border:  black double 2px;
+        flex-direction: column;
+        height: 300px;
+        width: auto;
+        justify-self: center;
+    margin: 10px;
+    padding: 10px;
+}
+.product_info-container{
+    border-color: black;
+     flex-direction: row;
+     
+    margin: 10px;
+    padding: 10px;
+
+
+}
+.product_details{
+    flex-direction: column;
+    
+    margin: 10px;
+     padding: 10px;
+}
+
+
+

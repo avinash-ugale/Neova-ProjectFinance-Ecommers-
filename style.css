@@ -27,7 +27,7 @@
 
 .product_card{
     border:  black double 2px;
-        flex-direction: column;
+        flex-direction: ;
         height: 300px;
         width: auto;
         justify-self: center;
